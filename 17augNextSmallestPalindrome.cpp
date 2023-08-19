@@ -1,0 +1,1 @@
+// Given a number, in the form of an array NUm[] of N size containing digits from 1 to 9(inclusive). 
