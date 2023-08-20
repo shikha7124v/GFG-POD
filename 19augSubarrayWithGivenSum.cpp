@@ -32,4 +32,4 @@ class Solution
         }
         return {i+1, j+1};
     }
-}
+};
