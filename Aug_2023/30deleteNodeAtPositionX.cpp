@@ -1,5 +1,5 @@
 // We have to delete the node which is at Xth position 
-
+/*
 Node *deleteNode(Node *head, int x){
     if(x == 1) //if position is 1 then simple head ko head ke next pr kr do
     {
@@ -18,3 +18,4 @@ Node *deleteNode(Node *head, int x){
     }
     return head;
 }
+*/
